@@ -1,4 +1,4 @@
-The dataset we took was from kaggle 
+The dataset i took was from kaggle 
 dataset link https://www.kaggle.com/datasets/vikrishnan/boston-house-prices 
 
 columns in this dataset denote
@@ -22,10 +22,10 @@ i used linear regression on this dataset to predict the housing prices based on 
 
 ![alt text](image.png)
 
-Mean Absolute Error : 3.1867873980180996
+Mean Absolute Error : 3.1867873980180996 <br>
 R2 score : 0.6522201888666173
 
-and how much the prediction varies one which factors 
+and how much the prediction varies on which factors 
 
         Feature  Coefficient
     5        RM     4.088551
